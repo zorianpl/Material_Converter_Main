@@ -38,4 +38,8 @@ Expanding the list of supported nodes.
 Improving conversion accuracy, especially for Glass Material.
 Expanded Material Presets: Plan to include 6 material presets: Disney, Metal, Glass, Translucency, Two-sided Translucency, and Fabric (currently requires code adjustments for the new connection method).
 
+[![Watch the video](https://img.youtube.com/vi/8kH7x_tLKQE/maxresdefault.jpg)](https://youtu.be/8kH7x_tLKQE)
+
+### [Cycles to LuxCore Convert ](https://youtu.be/8kH7x_tLKQE)
+
 
