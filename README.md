@@ -1,7 +1,8 @@
 Cycles to other Render engines Converter Addon for Blender
 This addon expands Blender's functionality by allowing you to convert Cycles shaders to other engines.
 
-
+Latest Realese: 
+https://github.com/zorianpl/Material_Converter_Main/releases
 
 Luxcore Render module installed.
 
